@@ -1,0 +1,2 @@
+# kryptoZomberz
+my solidity code
